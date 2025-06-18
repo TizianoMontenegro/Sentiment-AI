@@ -65,18 +65,6 @@ You can customize these files with your own data to improve the classifier's acc
 - [NLTK](https://www.nltk.org/) (Natural Language Toolkit)
 - NLTK Data (punkt tokenizer models)
 
-## Contributing
-
-Contributions are welcome! To contribute to Sentiment AI:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a pull request
-
-Please ensure your code follows PEP 8 style guidelines and includes appropriate tests.
-
 ## License
 
 This project is licensed under the MIT License - see the [[LICENSE](LICENSE)] file for details.
@@ -84,7 +72,6 @@ This project is licensed under the MIT License - see the [[LICENSE](LICENSE)] fi
 ## Acknowledgments
 
 - Natural Language Toolkit ([NLTK](https://www.nltk.org/)) team
-- All contributors who help improve this project
 
 ---
 
